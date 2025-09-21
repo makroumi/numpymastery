@@ -1,4 +1,4 @@
-# 🧠 NumPy Mastery: From Beginner to Pro
+# NumPy Mastery: From Beginner to Pro
 
 Welcome to **NumPy Mastery**, a hands-on Jupyter Notebook series designed to take you from beginner to confident practitioner in NumPy — Python’s foundational library for numerical computing.
 
@@ -17,11 +17,11 @@ Welcome to **NumPy Mastery**, a hands-on Jupyter Notebook series designed to tak
 
 ---
 
-## 💡 Who Is This For?
+## Who Is This For?
 
-- 📘 Python beginners getting into data science
-- 📊 Students prepping for NumPy interview questions
-- 🤖 Machine learning aspirants using Scikit-learn or TensorFlow
+- Python beginners getting into data science
+- Students prepping for NumPy interview questions
+- Machine learning aspirants using Scikit-learn or TensorFlow
 
 
 

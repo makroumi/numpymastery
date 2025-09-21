@@ -4,7 +4,7 @@ Welcome to **NumPy Mastery**, a hands-on Jupyter Notebook series designed to tak
 
 ---
 
-## 📚 What's Inside
+## What's Inside
 
 | Notebook | Topic |
 |----------|-------|
